@@ -5,13 +5,16 @@ BankManagment is a console-based application for managing bank accounts and clie
 ## **How to use**
 
 1- Clone this repository.
+
 2- Compile the source code files.
+
 3- Run the BankingApplication class.
+
 4- Follow the instructions displayed on the console to create bank accounts, list available bank accounts, display account details, withdraw money, and deposit money.
+
 5- You will be presented the enu as the follows
+
 ![image](https://user-images.githubusercontent.com/92641962/227727424-69bb47d7-13d4-4e73-a228-8e13c66c4bf1.png)
-
-
 
 
 ## **Functionalities**
